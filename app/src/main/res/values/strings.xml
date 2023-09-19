@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">SpringProduct</string>
+  <string name="form_name">Nombre</string>
+  <string name="form_branch">Precio</string>
+  <string name="form_location">Stock</string>
+  <string name="button_save_employee">Guardar</string>
+</resources>
